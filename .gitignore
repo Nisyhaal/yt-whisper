@@ -4,3 +4,5 @@ dist
 yt_whisper/__pycache__
 *.vtt
 .venv
+models
+build
